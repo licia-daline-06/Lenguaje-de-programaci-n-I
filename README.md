@@ -1,3 +1,4 @@
+**ESTUDIANTE:** CHURATA YUCRA LICIA D' ALINE
 # Lenguajes de Programación I
 Apuntes, ejercicios y proyectos del curso **Lenguajes de Programación I** (EST303), enfocado
 en fundamentos de programación y C++.
