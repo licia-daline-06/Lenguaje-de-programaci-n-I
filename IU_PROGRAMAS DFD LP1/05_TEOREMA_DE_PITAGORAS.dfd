@@ -1,0 +1,27 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+21
+TEOREMA DE PITAGORAS 
+4
+1
+19
+'Ingrese catetos: '
+5
+1
+5
+a , b
+6
+1
+1
+c
+15
+sqrt( a*a +b*b)
+4
+1
+15
+'hipotenusa=',c
+1

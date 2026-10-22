@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+15
+formula general
+4
+1
+19
+'Ingresar numero: '
+5
+1
+6
+Numero
+7
+0
+1
+10
+numero = 0
+7
+0
+1
+8
+Numero>0
+4
+1
+10
+'Negativo'
+13
+4
+1
+10
+'Positivo'
+13
+13
+4
+1
+19
+'El numero es cero'
+13
+1

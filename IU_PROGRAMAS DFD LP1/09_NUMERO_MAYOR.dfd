@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+12
+NUMERO MAYOR
+4
+1
+33
+'Ingrese los valores de a, b, c:'
+5
+1
+8
+a , b, c
+7
+0
+1
+15
+a > b and a > c
+7
+0
+1
+15
+b > a and b > c
+4
+1
+23
+'El numero mayor es:',c
+13
+4
+1
+23
+'El numero mayor es:',b
+13
+13
+4
+1
+23
+'El numero mayor es:',a
+13
+1

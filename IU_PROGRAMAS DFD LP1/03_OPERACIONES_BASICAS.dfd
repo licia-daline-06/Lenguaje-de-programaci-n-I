@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'Ingrese primer y segundo numero'
+5
+1
+4
+A, B
+6
+3
+1
+S
+3
+A+B
+1
+R
+3
+A-B
+1
+M
+3
+A*B
+6
+1
+1
+D
+3
+A/B
+4
+1
+72
+'SUMA = ', S, ' RESTA = ', R, ' MULTIPLICACION = ', M, ' DIVISION = ', D
+1
